@@ -1,4 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Coxie)](https://solved.ac/Coxie/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=frica12)](https://solved.ac/frica12/)
 ## 20230116 ~ ing
 <!--
 **frica12/frica12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
